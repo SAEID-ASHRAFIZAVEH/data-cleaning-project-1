@@ -1,0 +1,7 @@
+customer_id;name;age;email;survey_date;satisfaction_rating;product_category;purchase_amount;would_recommend;comments;
+1;John Smith;25.0;john@email.com;15/01/2024;5;Electronics;299.99;Yes;Great product!;
+2;Jane Doe;27.5;jane@email.com;;4;Clothing;89.5;Yes;Good quality;
+1;John Smith;25.0;john@email.com;15/01/2024;5;Electronics;299.99;Yes;Great product!;
+3;Bob Johnson;30.0;;17/01/2024;3;Books;25.0;No;;
+4;Alice Brown;27.5;alice@email.com;;5;Home & Garden;450.0;No;Poor delivery;
+5;;35.0;test@email.com;;2;Clothing;299.99;Yes;;
